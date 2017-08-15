@@ -1,0 +1,1 @@
+make MONITOR_BAUDRATE=115200 monitor
