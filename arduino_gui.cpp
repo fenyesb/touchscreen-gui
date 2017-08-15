@@ -1,3 +1,6 @@
+// Made by: Balázs Fényes (f.balazs96@gmail.com)
+// GUI for touchscreens (https://github.com/fenyesb/touchscreen-gui)
+
 #include <StandardCplusplus.h>
 #include <serstream>
 #include <avr/pgmspace.h>
